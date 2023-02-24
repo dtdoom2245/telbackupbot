@@ -30,7 +30,7 @@ class Presets(object):
 📲 𝐂𝐥𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐭    - <b>{}</b>
 📌 𝐋𝐚𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐎𝐧   - <b>{}</b>
 
-🔰 <a href='t.me/RMProjects'><b>@RMProjects</b></a>     🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
+🔰 <a href='https://t.me/+iPfWQJbYF3EzNTVl'><b>@DTIsseiHyoudou</b></a>     🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
     """
     INFO_CHAT_TYPES = """
 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙚𝙣𝙩𝙚𝙧 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙩𝙮𝙥𝙚𝙨:
